@@ -17,3 +17,4 @@ for n in range(1, 10_000):
         ans.append(r)
 print(min(ans))
 
+
