@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="049896dc-8c20-4374-9ddc-e11cb572e3b0" name="Changes" comment="https://kompege.ru/variant?kim=25073855">
-      <change afterPath="$PROJECT_DIR$/08-01-25/Task-5-18578.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09-01-25/Task-1-18916.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-01-25/Task-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-01-25/Task-5-01-25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10-01-25/Task-6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16-01-25/Task-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-12-24" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-12_24/Task-1-4581.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26-12_24/Task-1-4606.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_12_2024_17_39_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_12_2024_17_39__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_12_2024_17_11_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_26_12_2024_17_11__Changes_.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-01-25/Task-2-454.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-01-25/Task-2-816.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06-01-25/Task-14-1246.py" beforeDir="false" afterPath="$PROJECT_DIR$/06-01-25/Task-14-1246.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08-01-25/Task-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/08-01-25/Task-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ЕГКР 21-12-24/Task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/ЕГКР 21-12-24/Task-5-19237.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +54,7 @@
     &quot;Python.Task-1-4606.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-14-1246.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2-1846.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task-2-454.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5 -18920.executor&quot;: &quot;Run&quot;,
     &quot;Python.Task-5-19237.executor&quot;: &quot;Debug&quot;,
@@ -188,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736782585213</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737041253241</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737041253241</updated>
+    </task>
+    <task id="LOCAL-00013" summary="https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737385657738</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737385657738</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
