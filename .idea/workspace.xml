@@ -4,9 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="049896dc-8c20-4374-9ddc-e11cb572e3b0" name="Changes" comment="https://kompege.ru/variant?kim=25073855">
+    <list default="true" id="049896dc-8c20-4374-9ddc-e11cb572e3b0" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/03-02-25/Task-15-1013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-02-25/Task-15-746.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-02-25/Task-15-747.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-02-25/Task-15-753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-02-25/Task-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-02-25/Task-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-03-35/Task-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-03-35/Task-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-02-25/Task-1-17514.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-02-25/Task-15-16326.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-02-25/Task-2-1528.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13-02-25/Task-5-9736.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-02-25/Task-15-16833.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-02-25/Task-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-09-23/Task-23-4626.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-09-23/Task-23-9790.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17-09-23/Task-23-9844.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-01-25/Task-15-4620.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/20-01-25/Task-2-454.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/20-01-25/Task-2-816.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20-02-25/Task-2-18870.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-01-25/Task -15-11845.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-01-25/Task-15-11837.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23-01-25/Task-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task-25 - 17536.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task-5-15317.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task-5-17518.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task-5-17546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task-5-17624.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task-5-20486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24-02-25/Task25-1867.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-01-25/Task-15-8676.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27-01-25/Task-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task-15-4595.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,30 +73,70 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2qcYL36flLNBEynbWaAMocRGP4T" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Task-1-1845.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-1-18916.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-1-4581.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-1-4606.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-14-1246.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-1846.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2-454.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5 -18920.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task-5-19237.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Task-8-19240.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/IVarenikov/Desktop/EGE/06-01-25&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task -15-11845.executor": "Run",
+    "Python.Task-1-17514.executor": "Run",
+    "Python.Task-1-1845.executor": "Run",
+    "Python.Task-1-18916.executor": "Run",
+    "Python.Task-1-4581.executor": "Run",
+    "Python.Task-1-4606.executor": "Run",
+    "Python.Task-1.executor": "Run",
+    "Python.Task-14-1246.executor": "Run",
+    "Python.Task-15-11837.executor": "Run",
+    "Python.Task-15-1198.executor": "Run",
+    "Python.Task-15-16326.executor": "Run",
+    "Python.Task-15-16833.executor": "Run",
+    "Python.Task-15-1859.executor": "Debug",
+    "Python.Task-15-2861.executor": "Run",
+    "Python.Task-15-4595.executor": "Run",
+    "Python.Task-15-746.executor": "Run",
+    "Python.Task-15-747.executor": "Run",
+    "Python.Task-15-753.executor": "Run",
+    "Python.Task-15-8676.executor": "Run",
+    "Python.Task-15.executor": "Run",
+    "Python.Task-16-1860.executor": "Run",
+    "Python.Task-16-4596.executor": "Run",
+    "Python.Task-16-9747.executor": "Run",
+    "Python.Task-2-14651.executor": "Run",
+    "Python.Task-2-1528.executor": "Run",
+    "Python.Task-2-1846.executor": "Run",
+    "Python.Task-2-18870.executor": "Run",
+    "Python.Task-2-454.executor": "Run",
+    "Python.Task-2.executor": "Run",
+    "Python.Task-23-9790.executor": "Run",
+    "Python.Task-25 - 17536.executor": "Run",
+    "Python.Task-25 -4628-01.executor": "Run",
+    "Python.Task-25-11814.executor": "Run",
+    "Python.Task-25-11955.executor": "Run",
+    "Python.Task-25-2628.02.executor": "Run",
+    "Python.Task-25-4603.02.executor": "Run",
+    "Python.Task-25-4603.executor": "Run",
+    "Python.Task-5 -18920.executor": "Run",
+    "Python.Task-5-15317.executor": "Run",
+    "Python.Task-5-17518.executor": "Run",
+    "Python.Task-5-17546.executor": "Run",
+    "Python.Task-5-17624.executor": "Run",
+    "Python.Task-5-19237.executor": "Debug",
+    "Python.Task-5-19872.executor": "Run",
+    "Python.Task-5-20486.executor": "Run",
+    "Python.Task-5.executor": "Run",
+    "Python.Task-6.executor": "Run",
+    "Python.Task-8-19240.executor": "Run",
+    "Python.Task25-1867.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/IVarenikov/Desktop/EGE/06-01-25"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\IVarenikov\Desktop\EGE\06-01-25" />
@@ -191,7 +263,47 @@
       <option name="project" value="LOCAL" />
       <updated>1737385657738</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737385680257</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737385680257</updated>
+    </task>
+    <task id="LOCAL-00015" summary="https://kompege.ru/variant?kim=25073855">
+      <option name="closed" value="true" />
+      <created>1737644027334</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737644027334</updated>
+    </task>
+    <task id="LOCAL-00016" summary=".gitignore">
+      <option name="closed" value="true" />
+      <created>1738853267652</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1738853267652</updated>
+    </task>
+    <task id="LOCAL-00017" summary=".">
+      <option name="closed" value="true" />
+      <created>1738857179422</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1738857179422</updated>
+    </task>
+    <task id="LOCAL-00018" summary=".">
+      <option name="closed" value="true" />
+      <created>1740065430112</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740065430112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,6 +324,19 @@
     <MESSAGE value="https://kompege.ru/variant?kim=25073855&#10;я решил задание 1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="https://kompege.ru/variant?kim=25073855" />
-    <option name="LAST_COMMIT_MESSAGE" value="https://kompege.ru/variant?kim=25073855" />
+    <MESSAGE value=".gitignore" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03-02-25/Task-15-746.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

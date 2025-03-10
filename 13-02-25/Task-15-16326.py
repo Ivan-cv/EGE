@@ -1,0 +1,12 @@
+def dell(n,m):
+    return n % m == 0
+
+def f(A):
+    for x in range(1,10_000):
+        f = (not dell(x,A)) <= (dell(x,14) <= (not dell(x,4)))
+        if not f:
+            return False
+    return True
+for A in range(1,10_000):
+    if f(A):
+        print(A)
